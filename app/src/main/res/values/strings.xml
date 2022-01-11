@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">alert-dialog</string>
+    <string name="leave_meassge">\"Are You Want To Leave \"</string>
+    <string name="dialog_title">Warning !</string>
+    <string name="postitive_action_title">Yeas</string>
+    <string name="no">No</string>
+</resources>
